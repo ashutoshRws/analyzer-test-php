@@ -1,0 +1,12 @@
+{
+  "name": "analyzer/test-php",
+  "description": "PHP language detection fixture for analyzer testing",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "AnalyzerTest\\": "src/"
+    }
+  },
+  "require": {}
+}
